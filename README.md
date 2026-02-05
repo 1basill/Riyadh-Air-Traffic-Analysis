@@ -39,7 +39,8 @@ Categories  | Tools
 Programming  | Python
 Data Manipulation  | Pandas
 Data Visualization | PowerBI, Matplotlib
-Data Format | Parquet 
+Data Source | Parquet 
+Processing Format | csv
 
 
 
