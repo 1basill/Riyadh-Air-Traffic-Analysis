@@ -4,7 +4,8 @@
 ## Project Overview
 This project analyzes King Khalid International Airport flight data using Python, Pandas, and PowerBI to extract meaningful insights about airline performance, destinations, terminals, and airport traffic to improve insights and decision-making.
 
-Project Dashboard Demo : https://github.com/user-attachments/assets/e5fd9ccc-baa7-4072-be08-2617c21d249b
+Project Dashboard Demo : <img width="467" height="263" alt="image" src="https://github.com/user-attachments/assets/8dd11ccb-60ab-41fc-b372-b3b05b87f6f7" />
+
 
 
 ## Objective 
