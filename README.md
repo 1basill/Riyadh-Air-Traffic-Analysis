@@ -1,5 +1,7 @@
 # Riyadh Airport Flights Data Exploratory Analysis
 
+> Why do 74% of Riyadh's flights go international,  
+> and what does that mean for airport strategy?
 
 ## Project Overview
 This project analyzes King Khalid International Airport flight data using Python, Pandas, and PowerBI to extract meaningful insights about airline performance, destinations, terminals, and airport traffic to improve insights and decision-making.
@@ -32,6 +34,18 @@ Project Dashboard : <img width="467" height="263" alt="image" src="https://githu
 - Destination Performance : Top 3 Cities (Jeddah,Dubai,Cairo) account for 32.8% of total  
 - Operational Peak : Identifying a major traffic surge between 20:00 – 23:00 , where the airport handles nearly 25.75% of its daily operations  
 - Seasonal Data Note: flight volume is generally stable by months, and the lower numbers in March and October are caused by partial data collection during those months.
+
+
+## Business Recommendations
+
+- **Peak staffing:** 25.75% of operations happen in 3 hours (20:00–23:00)
+  → Increase ground staff during this window to reduce delays
+
+- **Airline risk:** Top 3 airlines = 78% of traffic
+  → Incentivize new carriers to reduce concentration risk
+
+- **Route optimization:** Jeddah, Dubai, Cairo = 32.8% of flights
+  → Dedicated fast-track lanes for these routes
 
 
 ## Tools 
