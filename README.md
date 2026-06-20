@@ -6,7 +6,8 @@
 ## Project Overview
 This project analyzes King Khalid International Airport flight data using Python, Pandas, and PowerBI to extract meaningful insights about airline performance, destinations, terminals, and airport traffic to improve insights and decision-making.
 
-Project Dashboard : <img width="467" height="263" alt="image" src="https://github.com/user-attachments/assets/8dd11ccb-60ab-41fc-b372-b3b05b87f6f7" />
+
+<img width="467" height="263" alt="image" src="https://github.com/user-attachments/assets/8dd11ccb-60ab-41fc-b372-b3b05b87f6f7" />
 
 
 
@@ -33,7 +34,8 @@ Project Dashboard : <img width="467" height="263" alt="image" src="https://githu
 - Airline Performance: Top 3 airlines (Saudia, Flynas, Flyadeal) account for 78.05% of total  
 - Destination Performance : Top 3 Cities (Jeddah,Dubai,Cairo) account for 32.8% of total  
 - Operational Peak : Identifying a major traffic surge between 20:00 – 23:00 , where the airport handles nearly 25.75% of its daily operations  
-- Seasonal Data Note: flight volume is generally stable by months, and the lower numbers in March and October are caused by partial data collection during those months.
+- Seasonal Data Note: flight volume is generally stable by months, and the lower numbers in March and October are caused by partial data collection during those months
+-  Route Type: 73.74% of RUH flights are international vs 26.26% domestic
 
 
 ## Business Recommendations
